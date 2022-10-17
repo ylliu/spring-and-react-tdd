@@ -1,4 +1,4 @@
-package com.hoaxify.hoaxify;
+package com.hoaxify.hoaxify.user;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
